@@ -1,0 +1,1 @@
+A PHP-Nuke module for customers to use to sign-up and purchase services from your company. Uses PayPal as final payment method.
